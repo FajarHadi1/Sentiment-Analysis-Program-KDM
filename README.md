@@ -11,7 +11,6 @@ Aplikasi ini dibuat untuk menganalisis sentimen masyarakat Indonesia terhadap ke
 
 - 📝 **Prediksi Sentimen**  
   - Input teks manual untuk analisis real-time  
-  - Upload file `.csv` untuk analisis batch (gunakan kolom `clean_tweet`)
 
 - 🤖 **Model Kustom**  
   Model klasifikasi sentimen berbasis **IndoBERTweet + BiLSTM** yang sudah dilatih dan disimpan secara lokal.
