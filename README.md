@@ -122,6 +122,14 @@ Kolom penting:
 
 ---
 
+## 🖥️ Preview
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-20 215031" src="https://github.com/user-attachments/assets/64e95919-9b15-4fb7-963c-218d63f34cca" />
+<img width="1920" height="1020" alt="Screenshot 2025-<img width="1920" height="1020" alt="Screenshot 2025-07-20 215041" src="https://github.com/user-attachments/assets/01d45d57-a109-4441-be37-076f26319ff3" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-21 062159" src="https://github.com/user-attachments/assets/f894a4b6-72b8-4243-a3de-1dd75eb72bcc" />
+
+---
+
 ## ✍️ Author
 
 **Farras Fajar Hadi, Rosalin Keyzia Constantia, Shandika Eka Revananda**  
