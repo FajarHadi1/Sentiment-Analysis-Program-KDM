@@ -124,7 +124,7 @@ Kolom penting:
 
 ## ✍️ Author
 
-**Farras Fajar Hadi**  
+**Farras Fajar Hadi, Rosalin Keyzia Constantia, Shandika Eka Revananda**  
 Mahasiswa Politeknik Caltex Riau  
 AI & NLP Enthusiast – 2025
 
