@@ -1,0 +1,22 @@
+# Environment
+.env/
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+*.sqlite3
+*.log
+
+# Cache & model
+.cache/
+*.h5
+*.ckpt
+*.pt
+model/
+cache/
