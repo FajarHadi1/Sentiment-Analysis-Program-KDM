@@ -10,7 +10,7 @@ Aplikasi ini dibuat untuk menganalisis sentimen masyarakat Indonesia terhadap ke
   Visualisasi distribusi sentimen, kata populer, korelasi kata terhadap emosi, dan analisis bigram.
 
 - 📝 **Prediksi Sentimen**  
-  - Input teks manual untuk analisis real-time  
+  Input teks manual untuk analisis real-time  
 
 - 🤖 **Model Kustom**  
   Model klasifikasi sentimen berbasis **IndoBERTweet + BiLSTM** yang sudah dilatih dan disimpan secara lokal.
