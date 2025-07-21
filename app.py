@@ -11,13 +11,17 @@ from collections import Counter
 import nltk
 from nltk.corpus import stopwords
 import re
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 nltk.download('stopwords')
 
-# stop_words_indonesian = set(stopwords.words("indonesian"))
+#Ganti dengan token kamu
+HF_TOKEN = os.getenv("HF_TOKEN")
 
 from huggingface_hub import login
-login("TOKEN_HUGGINGFACE_ANDA")  # Ganti dengan token kamu
+login(HF_TOKEN)
 
 # Load tokenizer and model IndoBERTweet
 MODEL_NAME = "model/indobert_bilstm"
